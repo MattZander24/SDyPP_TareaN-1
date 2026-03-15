@@ -1,0 +1,14 @@
+# entorno virtual
+venv/
+.env/
+
+# cache python
+__pycache__/
+*.pyc
+
+# pytest
+.pytest_cache/
+
+# archivos de sistema
+.DS_Store
+Thumbs.db
